@@ -33,3 +33,8 @@ proguard/
 
 # IntelliJ IDEA Modules
 *.iml
+
+#Libdx libs
+armeabi/
+armeabi-v7a/
+x86/
